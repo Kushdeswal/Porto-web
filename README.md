@@ -1,2 +1,2 @@
 # Porto-web
-   A web created using Html,Css,Js
+   Responsive design meets interactive functionality with HTML, CSS, and JavaScript
